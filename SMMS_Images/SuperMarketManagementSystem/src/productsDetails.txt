@@ -1,0 +1,30 @@
+1,EL,GEEPAS HEATER GFH9527,3,7400,GEEPAS HEATER GFH9527,/Users/waniya_mustafa/Desktop/SMMS_Images/Heater.png
+2,EL,ADLER KETTLE 1.2L AD 1280,7,12500,ADLER KETTLE 1.2L AD 1280,/Users/waniya_mustafa/Desktop/SMMS_Images/Kettle.png
+3,EL,ADLER BATHROOM LED MIRROR AD 2168,5,5200,ADLER BATHROOM LED MIRROR AD 2168,/Users/waniya_mustafa/Desktop/SMMS_Images/Mirror.png
+4,EL,ADLER EGG BOILER AD 4486,5,12500,ADLER EGG BOILER AD 4486,/Users/waniya_mustafa/Desktop/SMMS_Images/Boiler.png
+5,EL,AMICA TOASTER TD3021,6,9000,AMICA TOASTER TD3021,/Users/waniya_mustafa/Desktop/SMMS_Images/Toaster.png
+6,Dairy,OLPERS CREAM 200 ML,10,135,Delicious and smooth dairy cream which can add mouth-watering taste to many recipes,/Users/waniya_mustafa/Desktop/SMMS_Images/olpersCream.jpeg
+7,Dairy,NESTLE ORIGINAL YOGURT SWEET & TASTE 400 GM,19,165,Nestle The Original Yogurt Sweet n Tasty is your daily dose of delight that makes those mundane meal moments more exciting through its irresistible creamy taste and pure dairy goodness,/Users/waniya_mustafa/Desktop/SMMS_Images/nestleYogurt.jpeg
+8,Dairy,ADAMS CHEDDAR CHEESE SINGLE SLICES 200GM,20,465,Cheddar is the most readily available form of cheese. Adam's cheddar cheese is known for its distinct taste and texture. Produced on a state-of-the-art plant Adam's has consistently delivered high-quality cheddar cheese for the last two decades,/Users/waniya_mustafa/Desktop/SMMS_Images/cheese.jpeg
+9,Dairy,ANHAAR WHOLE MILK 1 LTR,12,195,whole milk of the best quality,/Users/waniya_mustafa/Desktop/SMMS_Images/anhaarMilk.jpeg
+10,Dairy,OLPERS FLAVOURED MILK CHOCOLATE 180ML,25,55,Olper's Chocolate-flavored milk is enriched with Vitamin A Vitamin D & Calcium to keep you happy & healthy! Great tasting chocolate flavor added to the goodness of Olper's milk!,/Users/waniya_mustafa/Desktop/SMMS_Images/flavouredOlpers.jpeg
+11,COS,PUREDERM MASK LEMON 15 ML,5,200,PUREDERM MASK LEMON 15 ML,/Users/waniya_mustafa/Desktop/SMMS_Images/Mask.png
+12,COS,AURA CRAFT JASMINE FRAGRANCE MIST,6,500,AURA CRAFT JASMINE FRAGRANCE MIST,/Users/waniya_mustafa/Desktop/SMMS_Images/Craft.png
+13,COS,SPA IN A BOTTLE NIGHT CREAM,5,2700,SPA IN A BOTTLE NIGHT CREAM,/Users/waniya_mustafa/Desktop/SMMS_Images/Cream.png
+14,COS,SPA IN A BOTTLE AQUA LUMINIZING ESSENCE 50 ML,6,2300,SPA IN A BOTTLE AQUA LUMINIZING ESSENCE 50 ML,/Users/waniya_mustafa/Desktop/SMMS_Images/Bottle.png
+15,COS,SPA IN A BOTTLE SUN BLOCK,5,1200,SPA IN A BOTTLE SUN BLOCK,/Users/waniya_mustafa/Desktop/SMMS_Images/Sun.png
+16,KA,ROSE PETAL TISSUE PAPER TOWEL 2IN1 PACK,26,285,available in single and twin packing every sheet you'll use is absorbent and hygienic to take away that extra bit of unhealthy oil or to shine up your wet utensils & cutlery. Made with 100% wood pulp it's safe to come in contact with food items,/Users/waniya_mustafa/Desktop/SMMS_Images/paperTowel.jpeg
+17,KA,RECYCLED PEDAL BIN LINERS 30 PACK,20,125,These garbage bags can also be used at parties at marriages and during holidays as well Prepared with odour block technology Is extremely non tear able Has high tensile strengthIs environment friendly as the same is biodegradable Non aromatic bags which also retain the smell,/Users/waniya_mustafa/Desktop/SMMS_Images/binLiners.jpeg
+18,KA,SCOTCH BRITE SPIRAL STAINLESS STEEL JUMBO,13,100,Scotch-Brite Jumbo Spiral Does not rust.It is gentle on hands and last long and Ideal for cleaning pots pans ovans and grills and Leave surfaces smooth and shiny with no scratches,/Users/waniya_mustafa/Desktop/SMMS_Images/scotchBrite.jpeg
+19,KA,JAZEE TRASH BAGS 25 PACK,10,195,Rim size: 91cm x 61cm Bag size: 18cm x 24cm Trash bag for small bins for hospital & clinical waste Oxo biodegradable eco friendly,/Users/waniya_mustafa/Desktop/SMMS_Images/trashBags.jpeg
+20,KA,SCOTCH BRITE SCOURING PADS 2PCS BACHAT PACK,15,50,Green kitchen scourer with nail saving sponge high quality product delivered,/Users/waniya_mustafa/Desktop/SMMS_Images/scotchBriteSponge.jpeg
+21,HE,HUNZA CANDLES AROMATIC MOMENTS,10,1600,aromatic candle,/Users/waniya_mustafa/Desktop/SMMS_Images/hunzaCandle.jpeg
+22,HE,TABLE MAT IR 3602 12X18 BASIC,5,395,TABLE MAT SIZE 12?18,/Users/waniya_mustafa/Desktop/SMMS_Images/tableMat.jpeg
+23,HE,WATER COOLER GLASS ATLANTIS IR PB03,1,7500,This glass water dispenser guarantee that you will love the refreshingly cool and crisp taste of this water,/Users/waniya_mustafa/Desktop/SMMS_Images/waterCooler.jpeg
+24,HE,ORIENTAL LEA IMP TISSUE BOX,10,1690,ORIENTAL LEA IMP TISSUE BOX,/Users/waniya_mustafa/Desktop/SMMS_Images/tissueBox.jpeg
+25,HE,LED STUDY LAMP IR S005,10,4900,LED STUDY LAMP IR S005,/Users/waniya_mustafa/Desktop/SMMS_Images/lamp.jpeg
+26,FG,BANANA - 1 DOZEN,12,160,BANANA - 1 DOZEN,/Users/waniya_mustafa/Desktop/SMMS_Images/Banana.png
+27,FG,ONION - 1KG,15,80,ONION - 1KG,/Users/waniya_mustafa/Desktop/SMMS_Images/Onion.png
+28,FG,CUCUMBER (FARMI) - 1KG,16,100,CUCUMBER (FARMI) - 1KG,/Users/waniya_mustafa/Desktop/SMMS_Images/Cucumber.png
+29,FG,SPINACH /KG,4,50,SPINACH /KG,/Users/waniya_mustafa/Desktop/SMMS_Images/Sp.png
+30,FG,BROCCOLI - 1KG,6,900,BROCCOLI - 1KG,/Users/waniya_mustafa/Desktop/SMMS_Images/Bro.png

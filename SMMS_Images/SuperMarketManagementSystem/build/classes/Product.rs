@@ -1,0 +1,9 @@
+product
+FruitAndVegitables
+Households
+Node
+Electronics
+Dairy
+Product
+Cosmetics
+kitchen
